@@ -1,0 +1,8 @@
+[0911/182525.418:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0911/182525.437:ERROR:exception_snapshot_win.cc(88)] thread ID 26912 not found in process
+[0913/001245.318:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Koneru\AppData\Local\Temp\scoped_dir44104_18649\Crashpad\reports\f84b7f81-293e-4586-90db-c8d51c249cee.dmp: The system cannot find the path specified. (0x3)
+[0913/001245.318:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0913/001330.877:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Koneru\AppData\Local\Temp\scoped_dir44104_18649\Crashpad\reports\1b9a897a-d7fa-4397-8f55-fe19c6a0c106.dmp: The system cannot find the path specified. (0x3)
+[0913/001330.878:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0914/001318.348:ERROR:file_io_win.cc(170)] CreateFile C:\Users\Koneru\AppData\Local\Temp\scoped_dir44104_18649\Crashpad\reports\4c0296c6-1a84-49a9-82aa-296e13a7de43.dmp: The system cannot find the path specified. (0x3)
+[0914/001318.355:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
